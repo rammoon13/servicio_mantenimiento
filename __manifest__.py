@@ -5,7 +5,7 @@
  'author': 'Ramon Herrera',
  'category': 'Custom',
  'summary': 'Gestión de Mantenimiento de Productos',
- 'depends': ['base', 'garantia.producto'],
+ 'depends': ['base', 'garantias'],
  'data': [
  'security/ir.model.access.csv',
  'views/servicio_mantenimiento_views.xml',
